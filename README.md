@@ -17,7 +17,7 @@ Where n - # nodes, m - # edges
 
 ### Cloning
 ```
-git clone https://github.com/omermadmon/prj_Dynamic_Graph.gitcd prj_FIFA
+git clone https://github.com/omermadmon/prj_Dynamic_Graph.git
 cd prj_Dynamic_Graph
 ```
 ### Compiling
