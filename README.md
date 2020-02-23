@@ -28,3 +28,5 @@ g++ *.cpp
 ```
 ./a.out
 ```
+
+Generate a dynamic graph and run tests using the methods mentioned above.
