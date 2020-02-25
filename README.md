@@ -15,17 +15,10 @@ Where n - # nodes, m - # edges
 
 ## Getting Started (for Linux)
 
-### Cloning
 ```
 git clone https://github.com/omermadmon/prj_Dynamic_Graph.git
 cd prj_Dynamic_Graph
-```
-### Compiling
-```
 g++ *.cpp
-```
-### Running
-```
 ./a.out
 ```
 
