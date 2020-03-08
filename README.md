@@ -1,4 +1,4 @@
-# prj_Dynamic_Graph
+# Dynamic Graph
 
 Data Structures and Algorithms course - programming assignment.
 <br>
