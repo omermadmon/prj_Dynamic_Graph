@@ -23,3 +23,7 @@ g++ *.cpp
 ```
 
 Generate a dynamic graph and run tests using the methods mentioned above.
+
+## Authors
+* Omer Madmon
+* Shavit Zamir
